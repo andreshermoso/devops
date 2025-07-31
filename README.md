@@ -1,6 +1,6 @@
 ## Professional Experience – Freelance DevOps Engineering
 
-Since early 2024, I have taken on various freelance DevOps engineering roles,
+__Since early 2024,__ I have taken on various freelance DevOps engineering roles,
 - Managing cloud infrastructure,
 - Automation pipelines,
 - Application support tasks for small to mid-sized software solutions.
