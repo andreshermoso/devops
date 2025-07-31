@@ -11,12 +11,12 @@ Key responsibilities and achievements include
 - Designed and deployed AWS ECR and AWS ECS infrastructure to support a lightweight PHP application, following CI/CD best practices
 - Authored and submitted RFPs/RFQs for outsourced software development efforts, including engagements with teams based in India
 - Delivered ongoing SQL query development and updates to the core AWS Aurora database, supporting application-level performance and data consistency
-- Maintained and updated GIT repositories on a daily basis, guided by insights from AWS CloudWatch configurations and alerts
+- Maintained and updated AWS (codecommit) as well as GIT repositories on a daily basis, guided by insights from different configurations and alerts
 - Structured and maintained AWS Route 53 DNS records, including ongoing updates to support both Linux and Windows-based AWS EC2 instances hosting services such as:
 
         MySQL databases
 
-        NGINX web servers
+        NGINX and APACHE web servers
 
         SFTP servers
 
