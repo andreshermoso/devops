@@ -1,9 +1,9 @@
 ## Professional Experience – Freelance DevOps Engineering
 
 Since early 2024, I have taken on various freelance DevOps engineering roles,
--- managing cloud infrastructure,
--- automation pipelines,
--- and application support tasks for small to mid-sized software solutions.
+- managing cloud infrastructure,
+- automation pipelines,
+- and application support tasks for small to mid-sized software solutions.
 
 Key responsibilities and achievements include:
 
