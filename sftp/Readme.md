@@ -26,3 +26,5 @@ mysql> quit
 # root#
     chown -R sftpgo:sftpgo /etc/sftpgo
     systemctl restart sftpgo.service
+
+    /etc/sftpgo/sftpd.log
