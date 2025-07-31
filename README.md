@@ -7,9 +7,8 @@ Since early 2024, I have taken on various freelance DevOps engineering roles,
 
 Key responsibilities and achievements include:
 
-    Designed and deployed AWS ECR and AWS ECS infrastructure to support a lightweight EDI translation solution developed using the Symfony PHP framework, following CI/CD best practices.
-
-    Delivered ongoing SQL query development and updates to the core AWS Aurora database, supporting application-level performance and data consistency.
+    - Designed and deployed AWS ECR and AWS ECS infrastructure to support a lightweight EDI translation solution developed using the Symfony PHP framework, following CI/CD best practices
+    - Delivered ongoing SQL query development and updates to the core AWS Aurora database, supporting application-level performance and data consistency.
 
     Maintained and updated GIT repositories on a daily basis, guided by insights from AWS CloudWatch configurations and alerts.
 
