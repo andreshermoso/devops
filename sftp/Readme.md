@@ -6,7 +6,6 @@
     cd /etc/sftpgo/env.d
     vi httpd.env
     vi sftpd.env
-
 ##
 # mysql>
     create database sftpgo;
