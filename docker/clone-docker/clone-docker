@@ -1,0 +1,10 @@
+## Docker commands 
+
+1. docker ps
+
+2. docker export
+  
+3. docker import
+
+4. docker run
+
