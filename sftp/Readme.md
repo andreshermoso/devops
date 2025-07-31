@@ -1,9 +1,9 @@
-  add-apt-repository ppa:sftpgo/sftpgo
-  apt update
-  apt install sftpgo
-  cd /etc/sftpgo/env.d
-  vi httpd.env
-  vi sftpd.env
+    add-apt-repository ppa:sftpgo/sftpgo
+    apt update
+    apt install sftpgo
+    cd /etc/sftpgo/env.d
+    vi httpd.env
+    vi sftpd.env
 
 ##
 
