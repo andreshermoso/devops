@@ -13,9 +13,9 @@ Key responsibilities and achievements include
 - Maintained and updated GIT repositories on a daily basis, guided by insights from AWS CloudWatch configurations and alerts
 - Structured and maintained AWS Route 53 DNS records, including ongoing updates to support both Linux and Windows-based AWS EC2 instances hosting services such as:
 
-        -- MySQL databases
+        - - MySQL databases
 
-        -- NGINX web servers
+        - - NGINX web servers
 
         SFTP servers
 
