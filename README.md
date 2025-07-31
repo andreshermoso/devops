@@ -3,7 +3,7 @@
 Since early 2024, I have taken on various freelance DevOps engineering roles,
 - Managing cloud infrastructure,
 - Automation pipelines,
-- And application support tasks for small to mid-sized software solutions.
+- Application support tasks for small to mid-sized software solutions.
 
 Key responsibilities and achievements include
 
