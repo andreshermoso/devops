@@ -23,8 +23,6 @@ Query OK, 1 row affected (0.00 sec)
 8 rows in set (0.00 sec)
 
 mysql> quit
-
-##
-
-chown -R sftpgo:sftpgo /etc/sftpgo
-systemctl restart sftpgo.service
+# #
+    chown -R sftpgo:sftpgo /etc/sftpgo
+    systemctl restart sftpgo.service
