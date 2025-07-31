@@ -1,4 +1,4 @@
-# #
+# root#
     add-apt-repository ppa:sftpgo/sftpgo
     apt update
     apt install sftpgo
