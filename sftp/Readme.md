@@ -19,7 +19,7 @@ Query OK, 1 row affected (0.00 sec)
 | information_schema |
 | mysql              |
 | performance_schema |
-| sftpgo             |
+| __sftpgo__         |
 8 rows in set (0.00 sec)
 
 mysql> quit
