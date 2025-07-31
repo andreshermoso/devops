@@ -11,7 +11,7 @@ Key responsibilities and achievements include:
 - Delivered ongoing SQL query development and updates to the core AWS Aurora database, supporting application-level performance and data consistency
 
     1. Designed and deployed AWS ECR and AWS ECS infrastructure to support a lightweight EDI translation solution developed using the Symfony PHP framework, following CI/CD best practices
-    2. Delivered ongoing SQL query development and updates to the core AWS Aurora database, supporting application-level performance and data consistency.
+    2. Delivered ongoing SQL query development and updates to the core AWS Aurora database server, supporting application-level performance and data consistency.
 
     Maintained and updated GIT repositories on a daily basis, guided by insights from AWS CloudWatch configurations and alerts.
 
