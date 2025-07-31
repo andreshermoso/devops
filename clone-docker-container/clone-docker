@@ -1,0 +1,7 @@
+docker ps
+
+docker export
+  
+docker import
+
+docker run
