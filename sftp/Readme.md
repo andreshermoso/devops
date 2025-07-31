@@ -23,5 +23,6 @@ Query OK, 1 row affected (0.00 sec)
 
 mysql> quit
 ##
+# root#
     chown -R sftpgo:sftpgo /etc/sftpgo
     systemctl restart sftpgo.service
