@@ -13,12 +13,6 @@ Key responsibilities and achievements include:
 - Maintained and updated GIT repositories on a daily basis, guided by insights from AWS CloudWatch configurations and alerts
 - Structured and maintained AWS Route 53 DNS records, including ongoing updates to support both Linux and Windows-based AWS EC2 instances hosting services such as:
 
-    
-
-    
-
-    
-
         MySQL databases
 
         NGINX web servers
@@ -33,6 +27,6 @@ Key responsibilities and achievements include:
 
         Mail servers
 
-    Authored and submitted RFPs/RFQs for outsourced software development efforts, including engagements with teams based in India.
+    
 
     
